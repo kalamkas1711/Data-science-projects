@@ -1,4 +1,3 @@
-## Games sales analysis for Streamchik online store
 ### Project Description
 
 You are working at "Streamchik," an online store that sells computer games worldwide. Historical data on game sales, user and expert ratings, genres, and platforms (such as Xbox or PlayStation) are available from open sources. Your task is to identify patterns that determine the success of a game. This will help you to bet on a potentially popular product and plan advertising campaigns.
