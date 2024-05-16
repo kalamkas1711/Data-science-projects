@@ -11,7 +11,7 @@ The dataset includes the abbreviation ESRB (Entertainment Software Rating Board)
 ### Project Execution Instructions
 
 **Step 1:** Open the data file and review the general information.
-   - File path: `/datasets/games.csv`. [Download dataset](link_to_dataset)
+   - File games.csv
 
 **Step 2:** Prepare the data.
    - Rename columns (convert to lowercase).
@@ -77,7 +77,7 @@ Build a model with the highest possible accuracy. To pass the project successful
 
 ### Project Execution Instructions
 
-1. Open the data file and study it. File path: `/datasets/users_behavior.csv`. [Download dataset](link_to_dataset).
+1. Open the data file and study it. File user_behavior.csv
 
 2. Split the raw data into training, validation, and test sets.
 
